@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/app/src/main/res/drawable/ic_cradle.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/app/src/main/res/drawable/ic_stop.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/cradleWedgeAPIService/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.153125" />
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/cradleWedgeAPIService/src/main/res/drawable/ic_cradle.xml" value="0.153125" />
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/cradleWedgeAPIService/src/main/res/drawable/ic_launcher_background.xml" value="0.153125" />
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/cradleWedgeAPIService/src/main/res/drawable/ic_launcher_foreground.xml" value="0.153125" />
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/cradleWedgeAPIService/src/main/res/drawable/ic_stop.xml" value="0.153125" />
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/cradleWedgeAPIService/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/cradleWedgeAPIService/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.153125" />
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/cradleWedgeDemo/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.153125" />
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/cradleWedgeDemo/src/main/res/drawable/ic_launcher_background.xml" value="0.153125" />
+        <entry key="..\:/Users/GDM748/OneDrive - Zebra Technologies/Mijn Files/Customers/Zebra/Android/CradleWedge/cradleWedgeDemo/src/main/res/layout/activity_fullscreen.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
